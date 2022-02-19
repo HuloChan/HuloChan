@@ -44,4 +44,4 @@
 
 ### About Me 🚀
 🎓 <a href="http://acc.edu.bd/">Adamjee Cantonment College</a> </br>
-👨‍💻 Science ACC'20 </br>
+👨‍💻 >Science ACC'20 </br>
