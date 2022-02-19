@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/HuloChan/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=courier+new&size=18&color=%23479029&duration=4000&lines=Gonna+Code+Till+I+Collapse+!!!;I'm+on+my+way..&center=true&width=500&height=50""></a>
+  <a href="https://github.com/HuloChan/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=courier+new&size=18&color=%2328FB00&duration=4000&lines=Gonna+Code+Till+I+Collapse+!!!;I'm+on+my+way..&center=true&width=500&height=50""></a>
 </p>
 
 
