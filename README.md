@@ -35,7 +35,7 @@
 <p><img align="right" alt="GIF" src="https://i.ibb.co/4Nr84Qt/Zenitsu-visual-Hinokami-Kepputan.png" width="500" height="454" /></p>
 
 </br>
+## :sassy_man:  About me
 
-### About Me 🚀
 🎓 <a href="http://acc.edu.bd/">Adamjee Cantonment College</a> </br>
 👨‍💻 Science ACC'20 </br>
