@@ -17,7 +17,7 @@
 </p>
 
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=HuloChan&theme=city-lights&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700" alt="HuloChan" /></p>
+<!--<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=HuloChan&theme=city-lights&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700" alt="HuloChan" /></p>-->
 
 <a href="https://www.facebook.com/un3ven">
   <img align="left" alt="Hulo's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
