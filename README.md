@@ -18,7 +18,7 @@
 <a href="https://discordapp.com/users/439385890846932993">
   <img align="left" alt="Hulo Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-<p><img align="right" alt="GIF" src="https://i.ibb.co/TWSDbh5/5ede49b5b760540004f2c5e5.png" <--width="350" height="200"--> /></p>
+<p><img align="right" alt="GIF" src="https://i.ibb.co/TWSDbh5/5ede49b5b760540004f2c5e5.png" width="350" height="200" /></p>
   
 ### About Me 🚀
 🎓 blank </br>
