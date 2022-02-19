@@ -44,6 +44,5 @@
 ### About me 
 
 - 🎓 <a href="http://acc.edu.bd/">Adamjee Cantonment College</a> </br>
-  - Science <q>Batch of'20 </q> </br>
-  <br>
+  - Science <b>Batch of'20</b>
  
