@@ -7,7 +7,7 @@
 <!--:saasy me:-->
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=HuloChan&label=Profile%20views&color=0e75b6&style=plastic" alt="HuloChan" /> <a href="https://github.com/HuloChan"><img src="https://img.shields.io/github/followers/HuloChan?label=Follow&style=social" alt="Follow Me" /> 
+	<img src="https://komarev.com/ghpvc/?username=HuloChan&label=Profile%20views&color=green&style=flat" alt="HuloChan" /> <a href="https://github.com/HuloChan"><img src="https://img.shields.io/github/followers/HuloChan?label=Follow&style=social" alt="Follow Me" /> 
 	</a>
 
 </p>
