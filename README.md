@@ -23,6 +23,6 @@
 
 <p><img align="right" alt="GIF" src="https://i.ibb.co/StpZRd6/hulo-logo.gif" width="350" height="200" /></p>
   
-### About Me 🚀
+### <u>About Me</u>🚀
 🎓 blank </br>
 👨‍💻 blank </br>
