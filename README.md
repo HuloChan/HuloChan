@@ -46,6 +46,4 @@
 - 🎓 <a href="http://acc.edu.bd/">Adamjee Cantonment College</a> </br>
 - 👨‍💻 Science '20 </br>
   <br>
-  ```
-  https://github.com/HuloChan
-  ```
+ 
