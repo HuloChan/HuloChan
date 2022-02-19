@@ -10,14 +10,9 @@
 	</a>
 </p>
 
-
 <p align="center">
   <a href="https://github.com/HuloChan/readme-typing-svg"><img src="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Gonna+Code+Till+I+Collapse+!!!;I'm+on+my+way..&center=true&width=500&height=50""></a>
 </p>
-
-
-
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F72B&duration=4000&lines=Gonna+Code+Till+I+Collapse+!!)](https://git.io/typing-svg) -->
 
 
 
