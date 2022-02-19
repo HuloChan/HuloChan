@@ -36,7 +36,6 @@
   <img align="left" alt="Hulo Discord" width="22px" src="https://github.com/HuloChan/HuloChan/blob/main/toppng.com-discord-logo-01-discord-logo-3126x2249.png" />
 </a><br>
 
-
 <p><img align="right" alt="GIF" src="https://i.ibb.co/4Nr84Qt/Zenitsu-visual-Hinokami-Kepputan.png" width="500" height="454" /></p>
 	  
 ## About me 
