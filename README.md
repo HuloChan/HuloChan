@@ -3,14 +3,14 @@
 
 <h1 align="center"><img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="35px" width="35px">Hi, I'm Sajid Bin Sarowar</h1>
 <h3 align="center">A Tech Enthusiast😊</h3>
-
+:saasy me:
 <p align="center">
-  <a href="https://github.com/HuloChan/readme-typing-svg"><img src="">https://readme-typing-svg.herokuapp.com?color=%2322F70C&duration=4000&center=true&vCenter=true&lines=Gonna+Code+Till+I+Collapse)](https://git.io/typing-svg</a>
+  <a href="https://github.com/HuloChan/readme-typing-svg"><img src="">https://readme-typing-svg.herokuapp.com/?color=%2322F70C&duration=4000&lines=Gonna+Code+Till+I+Collapse)](https://git.io/typing-svg)](https://git.io/typing-svg</a>
 </p>
 
 
 
-<-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F72B&duration=4000&lines=Gonna+Code+Till+I+Collapse+!!)](https://git.io/typing-svg) -->
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F72B&duration=4000&lines=Gonna+Code+Till+I+Collapse+!!)](https://git.io/typing-svg) -->
 
 
 
