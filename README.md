@@ -21,7 +21,7 @@
   <img align="left" alt="Hulo's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
 </a>
 <br>
-<a href="https://t.me/HuloChan">
+ <a href="https://t.me/HuloChan">
   <img align="left" alt="Hulo's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
 </a>
 
@@ -36,7 +36,6 @@
 <a href="https://discordapp.com/users/439385890846932993">
   <img align="left" alt="Hulo Discord" width="22px" src="https://github.com/HuloChan/HuloChan/blob/main/toppng.com-discord-logo-01-discord-logo-3126x2249.png" />
 </a><br>
-
 
 <p><img align="right" alt="GIF" src="https://i.ibb.co/4Nr84Qt/Zenitsu-visual-Hinokami-Kepputan.png" width="500" height="454" /></p>
 	  
