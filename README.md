@@ -33,8 +33,7 @@
   <img align="left" alt="Hulo Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <p><img align="right" alt="GIF" src="https://i.ibb.co/4Nr84Qt/Zenitsu-visual-Hinokami-Kepputan.png" width="500" height="454" /></p>
-</br>
-	  
+
 ## About me
 
 🎓 <a href="http://acc.edu.bd/">Adamjee Cantonment College</a> </br>
