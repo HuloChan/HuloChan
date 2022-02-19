@@ -17,21 +17,16 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=HuloChan&theme=city-lights&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700" alt="HuloChan" /></p>
 
+<a href="https://www.facebook.com/un3ven">
+  <img align="left" alt="Hulo's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
+</a>
 <br>
 <a href="https://t.me/HuloChan">
   <img align="left" alt="Hulo's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
 </a>
 
-<a href="https://github.com/Davekibh">
-  <img align="left" alt="Hulo's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-</a>
-
 <a href="https://www.instagram.com/sbs_shakib/">
   <img align="left" alt="Hulo's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
-</a>
-
-<a href="https://www.facebook.com/un3ven">
-  <img align="left" alt="Hulo's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
 </a>
 
 <a href="https://www.linkedin.com/in/sajid-bin-sarowar-3634b6215/">
@@ -39,7 +34,7 @@
 </a>
 
 <a href="https://discordapp.com/users/439385890846932993">
-  <img align="left" alt="Hulo Discord" width="22px" src="https://toppng.com/uploads/preview/discord-logo-01-discord-logo-11562849833clsolz2mbc.png" />
+  <img align="left" alt="Hulo Discord" width="22px" src="https://github.com/HuloChan/HuloChan/blob/main/toppng.com-discord-logo-01-discord-logo-3126x2249.png" />
 </a><br>
 
 
