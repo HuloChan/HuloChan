@@ -1,7 +1,7 @@
 
 <!-- Updating my readme for GitHub-->
 
-<h1 align="center"><img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="35px" width="35px">Hi, I'm Sajid Bin Sarowar</h1>
+<h1 align="center">Hi, I'm Sajid Bin Sarowar<img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="35px" width="35px"></h1>
 <h3 align="center">A Tech Enthusiast😊</h3>
 <!--:saasy me:-->
 
