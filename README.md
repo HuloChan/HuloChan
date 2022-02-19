@@ -21,7 +21,7 @@
 
 <br />
 
-<p><img align="right" alt="GIF" src="https://c.tenor.com/bSELDKo5R1UAAAAC/pokemon-squirtle.gif" width="450" height="300" /></p>
+<p><img align="right" alt="GIF" src="https://giphy.com/gifs/vD5uiOGEmrG23Et2UG" width="450" height="300" /></p>
   
 ### About Me 🚀
 🎓 blank </br>
