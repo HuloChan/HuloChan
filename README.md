@@ -36,7 +36,7 @@
 </a>
 
 <a href="https://discordapp.com/users/439385890846932993">
-  <img align="left" alt="Hulo Discord" width="22px" src="https://github.com/HuloChan/HuloChan/blob/main/discord_logo.png" />
+  <img align="left" alt="Hulo Discord" width="22px" src="https://github.com/HuloChan/HuloChan/blob/main/Discord-Logo-Color.png" />
 </a><br>
 
 <p><img align="right" alt="GIF-Zenitsu_Thunder" src="https://i.ibb.co/4Nr84Qt/Zenitsu-visual-Hinokami-Kepputan.png" width="500" height="454" /></p>
