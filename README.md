@@ -5,6 +5,12 @@
 <h3 align="center">A Tech Enthusiast😊</h3>
 <!--:saasy me:-->
 
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=HuloChan&label=Profile%20views&color=0e75b6&style=plastic" alt="HuloChan" /> 
+	</a>
+</p>
+
+
 <p align="center">
   <a href="https://github.com/HuloChan/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=%2322F70C&duration=4000&lines=Gonna+Code+Till+I+Collapse+!!!"></a>
 </p>
