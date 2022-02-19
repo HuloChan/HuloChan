@@ -12,10 +12,8 @@
 
 
 <p align="center">
-  <a href="https://github.com/HuloChan/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=%2322F70C&duration=4000&lines=Gonna+Code+Till+I+Collapse+!!!;I+am+on+my+way"></a>
+  <a href="https://github.com/HuloChan/readme-typing-svg"><img src="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer &center=true&width=500&height=50""></a>
 </p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Trebuchet+MS&color=%2300F702&duration=4000&center=true&vCenter=true&lines=Gonna+Code+Till+I+Collapse+!!!;I+am+on+my+way+)](https://git.io/typing-svg)
 
 
 
