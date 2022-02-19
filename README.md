@@ -18,7 +18,7 @@
 <a href="https://discordapp.com/users/439385890846932993">
   <img align="left" alt="Hulo Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-<p><img align="right" alt="GIF" src="https://i.ibb.co/4Nr84Qt/Zenitsu-visual-Hinokami-Kepputan.png" width="250" height="250" /></p>
+<p><img align="right" alt="GIF" src="https://i.ibb.co/4Nr84Qt/Zenitsu-visual-Hinokami-Kepputan.png" width="250" height="182" /></p>
 
 </br>
 
