@@ -5,7 +5,7 @@
 <!--:saasy me:-->
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=HuloChan&label=Profile%20views&color=0e75b6&style=plastic" alt="HuloChan" /> 
+	<img src="https://komarev.com/ghpvc/?username=HuloChan&label=Profile%20views&color=0e75b6&style=plastic" alt="HuloChan" /> <img src="https://komarev.com/ghpvc/?username=HuloChan&label=Profile%20views&color=0e75b6&style=plastic" alt="HuloChan" /> 
 	</a>
 
 </p>
