@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/HuloChan/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Gonna+Code+Till+I+Collapse+!!!;I'm+on+my+way..&center=true&width=500&height=50""></a>
+  <a href="https://github.com/HuloChan/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Gonna+Code+Till+I+Collapse+!!!;I'm+on+my+way..color=%2300F702&duration=4000&center=true&width=500&height=50""></a>
 </p>
 
 
