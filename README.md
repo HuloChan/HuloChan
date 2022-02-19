@@ -18,7 +18,7 @@
 <a href="https://discordapp.com/users/439385890846932993">
   <img align="left" alt="Hulo Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-<p><img align="right" alt="GIF" src="https://i.ibb.co/jW0nR0c/zenitsu-and-chuntaro-by-alabasterowl-de4k9x4-fullview.png" width="350" height="350" /></p>
+<p><img align="right" alt="GIF" src="https://i.ibb.co/jW0nR0c/zenitsu-and-chuntaro-by-alabasterowl-de4k9x4-fullview.png" width="250" height="250" /></p>
 
 </br>
 
