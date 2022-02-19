@@ -7,8 +7,9 @@
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=HuloChan&label=Profile%20views&color=0e75b6&style=plastic" alt="HuloChan" /> 
 	</a>
-	[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
+
 </p>
+[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
 
 <p align="center">
   <a href="https://github.com/HuloChan/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Trebuchet+MS&color=%2300F702&duration=4000&lines=Gonna+Code+Till+I+Collapse+!!!;I'm+on+my+way..&center=true&width=500&height=50""></a>
