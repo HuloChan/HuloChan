@@ -3,6 +3,7 @@
 
 <h1 align="center"><img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="35px" width="35px">Hi, I'm Sajid Bin Sarowar</h1>
 <h3 align="center">A Tech Enthusiast😊</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F72B&duration=4000&lines=Gonna+Code+Till+I+Collapse+!!)](https://git.io/typing-svg)
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HuloChan&theme=algolia" alt="HuloChan" /></p>
 
 <br>
