@@ -23,5 +23,5 @@
 </br>
 
 ### About Me 🚀
-🎓 blank </br>
+🎓 Adamjee Cantonment College </br>
 👨‍💻 blank </br>
