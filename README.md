@@ -43,6 +43,7 @@
 
 - 🎓 <a href="http://acc.edu.bd/">Adamjee Cantonment College</a> </br>
 - 👨‍💻 Science '20 </br>
+  <br>
   ```
-  bash npm run dev # or yarn dev 
+  https://github.com/HuloChan
   ```
