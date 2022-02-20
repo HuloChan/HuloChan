@@ -3,6 +3,15 @@
   ```
   https://github.com/HuloChan
   ```
+* {
+  margin:0;
+  padding:0;
+}
+h1 {
+  font-size:16em;
+  line-height:0.7em;
+}
+
 <h1 align="center">Hi, I'm Sajid Bin Sarowar<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="35px"></h1>
 
 <h3 align="center">A Tech Enthusiast</h3>
