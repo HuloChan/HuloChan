@@ -39,7 +39,7 @@ https://github.com/HuloChan
 
 <a href="https://www.facebook.com/un3ven">
   
-  <img align="left" alt="Hulo's Facebook" width="30px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
+  <img align="left" alt="Hulo's Facebook" width="25px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
 
 </a>
 
@@ -47,7 +47,7 @@ https://github.com/HuloChan
 
 <a href="https://www.instagram.com/sbs_shakib/">
   
-  <img align="left" alt="Hulo's Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
+  <img align="left" alt="Hulo's Instagram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
 
 </a>
 
@@ -55,7 +55,7 @@ https://github.com/HuloChan
 
 <a href="https://t.me/HuloChan">
   
-  <img align="left" alt="Hulo's Telegram" width="30px" src="https://web.telegram.org/img/logo_share.png" />
+  <img align="left" alt="Hulo's Telegram" width="25px" src="https://web.telegram.org/img/logo_share.png" />
 
 </a>
 
@@ -63,7 +63,7 @@ https://github.com/HuloChan
 
 <a href="https://www.linkedin.com/in/sajid-bin-sarowar-3634b6215/">
   
-  <img align="left" alt="Hulo's Linkdein" width="30px" src="https://github.com/HuloChan/HuloChan/blob/main/Linkedin_logo.png" />
+  <img align="left" alt="Hulo's Linkdein" width="25px" src="https://github.com/HuloChan/HuloChan/blob/main/Linkedin_logo.png" />
 
 </a>
 
@@ -71,14 +71,14 @@ https://github.com/HuloChan
 
 <a href="https://discordapp.com/users/439385890846930993">
   
-  <img align="left" alt="Hulo Discord" width="30px" src="https://github.com/HuloChan/HuloChan/blob/main/Discord-Logo-Color.png" />
+  <img align="left" alt="Hulo Discord" width="25px" src="https://github.com/HuloChan/HuloChan/blob/main/Discord-Logo-Color.png" />
 
 </a>
 <!--:My Anime List:-->
 
 <a href="https://myanimelist.net/animelist/HuloChan">
   
-  <img align="left" alt="Hulo Discord" width="30px" src="https://github.com/HuloChan/HuloChan/blob/main/mal_icon.png" />
+  <img align="left" alt="Hulo Discord" width="25px" src="https://github.com/HuloChan/HuloChan/blob/main/mal_icon.png" />
 
 </a><br>
 
