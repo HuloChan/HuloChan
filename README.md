@@ -103,9 +103,9 @@
   <!-- - 🎓 <a href="https://www.mist.ac.bd/">Military Institute of Science and Technology</a>
   - B.Sc in <b>Not found</b> -->
 
-<hr>
+<p align="center"> 
 
-<p align="center">
+<hr>
 
   <a href="https://discordapp.com/users/439385890846932993">
   
