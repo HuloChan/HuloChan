@@ -2,11 +2,10 @@
 
 <!--<h1 font face="Courier New" align="center">Hi, I'm Sajid Bin Sarowar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="35px"></h1>-->
 <p align="left"> 
-	
+
+	<h3 align="right">A Tech Enthusiast</h3>
   <img src="https://i.ibb.co/3YyLfCp/hi-me-readme.png" alt="Hi, I am Sajid Bin Sarowar" width="500" height="150"/>
   
-  <h3 align="right">A Tech Enthusiast</h3>
-
 </p>
 
 
