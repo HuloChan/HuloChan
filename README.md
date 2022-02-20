@@ -32,7 +32,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/sajid-bin-sarowar-3634b6215/">
-  <img align="left" alt="Hulo's Linkdein" width="30px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+  <img align="left" alt="Hulo's Linkdein" width="30px" src="https://github.com/HuloChan/HuloChan/blob/main/Linkedin_logo.png" />
 </a>
 
 <a href="https://discordapp.com/users/439385890846930993">
