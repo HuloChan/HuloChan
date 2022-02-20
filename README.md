@@ -83,7 +83,6 @@
 
 </a>
 
----
 
 <!--:zenitsu-picture:-->
 
@@ -93,6 +92,9 @@
 
 </p>
 <br>	  
+
+---
+
 <!--about my education-->
 
 ### About me
