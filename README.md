@@ -71,7 +71,7 @@ https://github.com/HuloChan
 <!--:discord:-->
 
 <!--<a href="https://discord.c99.nl/widget/theme-2/439385890846932993.png">
-  
+
   <img align="left" alt="Hulo Discord" width="25px" src="https://github.com/HuloChan/HuloChan/blob/main/Discord-Logo-Color.png" />
 
 </a>-->
@@ -86,7 +86,7 @@ https://github.com/HuloChan
 <!--:zenitsu-picture:-->
 
 <!--<p>-->
-  
+
   <img align="right" alt="GIF-Zenitsu_Thunder" src="https://i.ibb.co/4Nr84Qt/Zenitsu-visual-Hinokami-Kepputan.png" width="500" height="454" />
 
 </p>
@@ -97,9 +97,10 @@ https://github.com/HuloChan
 
 - 🎓 <a href="http://acc.edu.bd/">Adamjee Cantonment College</a> </br>
   - Science <b>(Batch of '20)</b>
+- 🎓 Military Institute of Science and Technology (MIST)
+  -B.Sc in ----
 
-
-<p align="center"> 
+<p align="center">
 
   <a href="https://discordapp.com/users/439385890846932993">
   
@@ -107,5 +108,3 @@ https://github.com/HuloChan
 
   </a>
 </p>
-  
-
