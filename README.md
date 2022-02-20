@@ -1,12 +1,8 @@
 <!-- Updating my readme for GitHub-->
 
-
 <h1 font face="Courier New" align="center">Hi, I'm Sajid Bin Sarowar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="35px"></h1>
 
-<h3 align="center">A Tech Enthusiast</h3> 
-
-
-
+<h3 align="center">A Tech Enthusiast</h3>
 
 <!--:main part:-->
 
@@ -83,7 +79,6 @@
 
 </a>
 
-
 <!--:zenitsu-picture:-->
 
 <!--<p>-->
@@ -91,7 +86,7 @@
   <img align="right" alt="GIF-Zenitsu_Thunder" src="https://i.ibb.co/4Nr84Qt/Zenitsu-visual-Hinokami-Kepputan.png" width="500" height="454" />
 
 </p>
-<br>	  
+<br>
 
 <!--about my education-->
 
@@ -99,7 +94,7 @@
 
 - 🎓 <a href="http://acc.edu.bd/">Adamjee Cantonment College</a> </br>
   - `Science` <b>(Batch of '20)</b>
-<!-- - 🎓 <a href="https://www.mist.ac.bd/">Military Institute of Science and Technology</a>
+  <!-- - 🎓 <a href="https://www.mist.ac.bd/">Military Institute of Science and Technology</a>
   - B.Sc in <b>Not found</b> -->
 
 <p align="center">
@@ -114,6 +109,7 @@
 ```
 https://github.com/HuloChan
 ```
+
 <p>
 
 <img align="right" alt="CopyRight" src="https://img.shields.io/badge/%E2%92%B8-HuloChan-lightgrey" />
