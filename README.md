@@ -74,7 +74,14 @@ https://github.com/HuloChan
   <img align="left" alt="Hulo Discord" width="30px" src="https://github.com/HuloChan/HuloChan/blob/main/Discord-Logo-Color.png" />
 
 </a>
-<br>
+<!--:My Anime List:-->
+
+<a href="https://myanimelist.net/animelist/HuloChan">
+  
+  <img align="left" alt="Hulo Discord" width="30px" src="https://github.com/HuloChan/HuloChan/blob/main/mal_icon.png" />
+
+</a><br>
+
 <!--:zenitsu-picture:-->
 
 <p>
