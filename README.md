@@ -97,8 +97,8 @@ https://github.com/HuloChan
 
 - 🎓 <a href="http://acc.edu.bd/">Adamjee Cantonment College</a> </br>
   - Science <b>(Batch of '20)</b>
-- 🎓 Military Institute of Science and Technology (MIST)
-  -B.Sc in ----
+- 🎓 Military Institute of Science and Technology
+  - B.Sc in ----
 
 <p align="center">
 
