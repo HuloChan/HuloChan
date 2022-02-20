@@ -95,10 +95,23 @@ https://github.com/HuloChan
 
 ### About me
 
-- 🎓 <a href="http://acc.edu.bd/">Adamjee Cantonment College</a> </br>
+<ul>
+    <li>🎓 <a href="http://acc.edu.bd/">Adamjee Cantonment College</a></li>
+    <ul>
+        <li>Science <b>(Batch of '20)</li>
+    </ul>
+    <li>🎓 <a href="https://www.mist.ac.bd/">Military Institute of Science and Technology</a></li>
+    <ul>
+        <li>B.Sc in <b>Not found</b></li>
+    </ul>
+</ul>
+
+
+
+<!-->- 🎓 <a href="http://acc.edu.bd/">Adamjee Cantonment College</a> </br>
   - Science <b>(Batch of '20)</b>
-- 🎓 Military Institute of Science and Technology
-  - B.Sc in ----
+- 🎓 <a href="https://www.mist.ac.bd/">Military Institute of Science and Technology</a>
+  - B.Sc in <b>Not found</b>-->
 
 <p align="center">
 
