@@ -1,8 +1,9 @@
-
 <!-- Updating my readme for GitHub-->
-  ```
-  https://github.com/HuloChan
-  ```
+
+```
+https://github.com/HuloChan
+```
+
 <h1 align="center">Hi, I'm Sajid Bin Sarowar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="35px"></h1>
 
 <h3 align="center">A Tech Enthusiast</h3>
@@ -33,7 +34,6 @@
 </p>
 
 <!--<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=HuloChan&theme=city-lights&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700" alt="HuloChan" /></p>-->
-
 
 <!--:facebook:-->
 
@@ -85,8 +85,7 @@
 	  
 <!--about my education-->
 
-### About me 
+### About me
 
 - 🎓 <a href="http://acc.edu.bd/">Adamjee Cantonment College</a> </br>
   - Science <b>(Batch of '20)</b>
- 
