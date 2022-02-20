@@ -3,7 +3,11 @@
 
 <h1 align="center">Hi, I'm Sajid Bin Sarowar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="35px"></h1>
 
-<h3 align="center">A Tech Enthusiast</h3>
+<h3 align="center">A Tech Enthusiast</h3> 
+
+***
+
+
 
 <!--:main part:-->
 
@@ -91,7 +95,7 @@
 <!--about my education-->
 
 ### About me
----
+
 - 🎓 <a href="http://acc.edu.bd/">Adamjee Cantonment College</a> </br>
   - `Science` <b>(Batch of '20)</b>
 <!--- 🎓 <a href="https://www.mist.ac.bd/">Military Institute of Science and Technology</a>
