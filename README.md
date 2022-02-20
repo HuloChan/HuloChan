@@ -3,7 +3,7 @@
 <!--<h1 font face="Courier New" align="center">Hi, I'm Sajid Bin Sarowar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="35px"></h1>-->
 <p align="left"> 
 	
-  <img src="https://i.ibb.co/9pjzKh7/hi-me-readme-1.png" alt="Hi, I am Sajid Bin Sarowar"/>
+  <img src="https://i.ibb.co/Bnd1Wvr/hi-me-readme-rounded.png" alt="Hi, I am Sajid Bin Sarowar"/>
 
 </p>
 
