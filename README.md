@@ -93,8 +93,6 @@
 </p>
 <br>	  
 
----
-
 <!--about my education-->
 
 ### About me
@@ -112,6 +110,8 @@
 
   </a>
 </p>
+
+---
 
 ```
 https://github.com/HuloChan
