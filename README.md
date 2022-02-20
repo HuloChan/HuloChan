@@ -102,7 +102,7 @@ https://github.com/HuloChan
     </ul>
     <li>🎓 <a href="https://www.mist.ac.bd/">Military Institute of Science and Technology</a></li>
     <ul>
-        <li>B.Sc in <b>Not found</b></li>
+        <li> B.Sc in  <b> Not found </b></li>
     </ul>
 </ul>
 
