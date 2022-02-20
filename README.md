@@ -74,7 +74,7 @@
   <img align="left" alt="Hulo Discord" width="30px" src="https://github.com/HuloChan/HuloChan/blob/main/Discord-Logo-Color.png" />
 
 </a>
-
+<br>
 <!--:zenitsu-picture:-->
 
 <p>
