@@ -7,7 +7,9 @@
 
 <h3 align="center">A Tech Enthusiast</h3>
 
-<!--:saasy me:-->
+<!--:main part:-->
+
+<!--:visitors and followers count:-->
 
 <p align="center"> 
 	
@@ -19,10 +21,12 @@
 
 </p>
 
+<!--:marquee text animation:-->
+
 <p align="center">
   
   <a href="https://github.com/HuloChan/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=courier+new&size=18&color=%2308FB00&duration=4000&lines=Gonna+Code+Till+I+Collapse+!!!;I'm+on+my+way..&center=true&width=500&height=50"">
+  <img src="https://readme-typing-svg.herokuapp.com?font=courier+new&size=18&color=%2308FB00&duration=4000&lines=Gonna+Code+Till+I+Collapse+!!!;I'm+on+my+way...&center=true&width=500&height=30"">
   
   </a>
 
@@ -30,6 +34,7 @@
 
 <!--<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=HuloChan&theme=city-lights&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700" alt="HuloChan" /></p>-->
 
+<!--:facebook:-->
 
 <a href="https://www.facebook.com/un3ven">
   
@@ -37,6 +42,7 @@
 
 </a>
 
+<!--:instagram:-->
 
 <a href="https://www.instagram.com/sbs_shakib/">
   
@@ -44,11 +50,15 @@
 
 </a>
 
+<!--:telegram:-->
+
 <a href="https://t.me/HuloChan">
   
   <img align="left" alt="Hulo's Telegram" width="30px" src="https://web.telegram.org/img/logo_share.png" />
 
 </a>
+
+<!--:linkedin:-->
 
 <a href="https://www.linkedin.com/in/sajid-bin-sarowar-3634b6215/">
   
@@ -56,11 +66,15 @@
 
 </a>
 
+<!--:discord:-->
+
 <a href="https://discordapp.com/users/439385890846930993">
   
   <img align="left" alt="Hulo Discord" width="30px" src="https://github.com/HuloChan/HuloChan/blob/main/Discord-Logo-Color.png" />
 
 </a><br>
+
+<!--:zenitsu-picture:-->
 
 <p>
   
@@ -69,6 +83,7 @@
 </p>
 	  
 
+<!--about my education-->
 ### About me 
 
 - 🎓 <a href="http://acc.edu.bd/">Adamjee Cantonment College</a> </br>
