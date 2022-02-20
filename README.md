@@ -105,9 +105,11 @@
 
 <p align="center">
 
+---
+
   <a href="https://discordapp.com/users/439385890846932993">
   
-  <hr> <img align="center" alt="Hulo Discord" src="https://discord.c99.nl/widget/theme-4/439385890846932993.png" />
+  <img align="center" alt="Hulo Discord" src="https://discord.c99.nl/widget/theme-4/439385890846932993.png" />
 
   </a>
 </p>
