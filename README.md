@@ -83,7 +83,6 @@
 
 </p>
 	  
-<br>
 <!--about my education-->
 
 ### About me 
