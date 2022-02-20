@@ -69,7 +69,7 @@ https://github.com/HuloChan
 
 <!--:discord:-->
 
-<a href="https://discord.c99.nl/widget/theme-2/439385890846932993.png">
+<!--<a href="https://discord.c99.nl/widget/theme-2/439385890846932993.png">
   
   <img align="left" alt="Hulo Discord" width="25px" src="https://github.com/HuloChan/HuloChan/blob/main/Discord-Logo-Color.png" />
 
