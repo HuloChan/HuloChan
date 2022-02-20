@@ -34,6 +34,7 @@
 
 <!--<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=HuloChan&theme=city-lights&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700" alt="HuloChan" /></p>-->
 
+
 <!--:facebook:-->
 
 <a href="https://www.facebook.com/un3ven">
@@ -72,7 +73,7 @@
   
   <img align="left" alt="Hulo Discord" width="30px" src="https://github.com/HuloChan/HuloChan/blob/main/Discord-Logo-Color.png" />
 
-</a><br>
+</a>
 
 <!--:zenitsu-picture:-->
 
