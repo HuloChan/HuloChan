@@ -114,3 +114,8 @@
 ```
 https://github.com/HuloChan
 ```
+<p>
+
+<img align="left" alt="CopyRight" src="https://img.shields.io/badge/%E2%92%B8-%40HuloChan-lightgrey" />
+
+</p>
