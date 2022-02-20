@@ -14,7 +14,7 @@ https://github.com/HuloChan
 
 <p align="center"> 
 	
-  <img src="https://komarev.com/ghpvc/?username=HuloChan&label=views&color=lightgrey&style=flat" alt="HuloChan" />
+  <img src="https://komarev.com/ghpvc/?username=HuloChan&label=views&color=blueviolet&style=flat" alt="HuloChan" />
   <a href="https://github.com/HuloChan">
   <img src="https://img.shields.io/github/followers/HuloChan?label=Follow&style=social" alt="Follow Me" /> 
 	
