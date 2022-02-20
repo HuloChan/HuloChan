@@ -17,6 +17,7 @@
 	
   <img src="https://komarev.com/ghpvc/?username=HuloChan&label=views&color=yellow&style=flat" alt="HuloChan" />
   <a href="https://github.com/HuloChan">
+  
   <img src="https://img.shields.io/github/followers/HuloChan?label=Follow&style=social" alt="Follow Me" /> 
 	
   </a>
@@ -28,7 +29,7 @@
 <p align="center">
   
   <a href="https://github.com/HuloChan/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=courier+new&size=18&color=%2308FB00&duration=4000&lines=Gonna+Code+Till+I+Collapse+!!!;I'm+on+my+way...&center=true&width=500&height=30"">
+  <img src="https://readme-typing-svg.herokuapp.com?font=courier+new&size=18&color=%2308FB00&duration=4000&lines=Gonna+Code+Till+I+Collapse+!!!;I'm+on+my+way...&center=true&width=500&height=30">
   
   </a>
 
