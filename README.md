@@ -5,7 +5,6 @@
 
 <h3 align="center">A Tech Enthusiast</h3> 
 
-***
 
 
 
@@ -83,6 +82,8 @@
   <img align="left" alt="Hulo Discord" width="25px" src="https://github.com/HuloChan/HuloChan/blob/main/mal_icon.png" />
 
 </a>
+
+---
 
 <!--:zenitsu-picture:-->
 
