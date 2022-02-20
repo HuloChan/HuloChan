@@ -3,7 +3,7 @@
   ```
   https://github.com/HuloChan
   ```
-<h1 align="center">Hi, I'm Sajid Bin Sarowar<img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="40px" width="40px"></h1>
+<h2 align="center">Hi, I'm Sajid Bin Sarowar<img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="40px" width="40px"></h2>
 
 <h3 align="center">A Tech Enthusiast</h3>
 
