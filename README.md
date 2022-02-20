@@ -91,9 +91,7 @@
 <!--about my education-->
 
 ### About me
-
 ---
-
 - 🎓 <a href="http://acc.edu.bd/">Adamjee Cantonment College</a> </br>
   - `Science` <b>(Batch of '20)</b>
 <!--- 🎓 <a href="https://www.mist.ac.bd/">Military Institute of Science and Technology</a>
