@@ -23,12 +23,12 @@
   <img align="left" alt="Hulo's Facebook" width="30px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
 </a>
 
- <a href="https://t.me/HuloChan">
-  <img align="left" alt="Hulo's Telegram" width="30px" src="https://web.telegram.org/img/logo_share.png" />
-</a>
-
 <a href="https://www.instagram.com/sbs_shakib/">
   <img align="left" alt="Hulo's Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
+</a>
+
+ <a href="https://t.me/HuloChan">
+  <img align="left" alt="Hulo's Telegram" width="30px" src="https://web.telegram.org/img/logo_share.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/sajid-bin-sarowar-3634b6215/">
