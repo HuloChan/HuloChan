@@ -84,7 +84,7 @@ https://github.com/HuloChan
 
 <!--:zenitsu-picture:-->
 
-<p>
+<!--<p>-->
   
   <img align="right" alt="GIF-Zenitsu_Thunder" src="https://i.ibb.co/4Nr84Qt/Zenitsu-visual-Hinokami-Kepputan.png" width="500" height="454" />
 
