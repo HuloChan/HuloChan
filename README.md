@@ -80,7 +80,7 @@ https://github.com/HuloChan
   
   <img align="left" alt="Hulo Discord" width="25px" src="https://github.com/HuloChan/HuloChan/blob/main/mal_icon.png" />
 
-</a><br>
+</a>
 
 <!--:zenitsu-picture:-->
 
@@ -89,7 +89,7 @@ https://github.com/HuloChan
   <img align="right" alt="GIF-Zenitsu_Thunder" src="https://i.ibb.co/4Nr84Qt/Zenitsu-visual-Hinokami-Kepputan.png" width="500" height="454" />
 
 </p>
-	  
+<br>	  
 <!--about my education-->
 
 ### About me
