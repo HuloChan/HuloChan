@@ -95,7 +95,7 @@
 
 <!--<p>-->
 
-  <img align="right" alt="GIF-Zenitsu_Thunder" src="https://i.ibb.co/4Nr84Qt/Zenitsu-visual-Hinokami-Kepputan.png" width="500" height="454" />
+  <img align="right" alt="GIF-Zenitsu_Thunder" src="https://images2.imgbox.com/26/60/yJ0EQfsT_o.png" width="500" height="454" />
 
 </p>
 <br>
