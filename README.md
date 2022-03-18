@@ -29,7 +29,7 @@
 <p align="center">
   
   <a href="https://github.com/HuloChan/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monoid&size=18&color=%2308FB00&duration=4000&lines=Gonna+Code+Till+I+Collapse+!!!;I'm+on+my+way...&center=true&width=500&height=30">
+  <img src="https://readme-typing-svg.herokuapp.com?font=AverageMono&size=18&color=%2308FB00&duration=4000&lines=Gonna+Code+Till+I+Collapse+!!!;I'm+on+my+way...&center=true&width=500&height=30">
   
   </a>
 
