@@ -70,7 +70,7 @@
 
 <!--:linkedin:-->
 
-<a href="https://www.linkedin.com/in/sajid-bin-sarowar-3634b6215/">
+<a href="https://www.linkedin.com/in/sajidbinsarowar">
   
   <img align="left" alt="Hulo's Linkdein" width="25px" src="https://github.com/HuloChan/HuloChan/blob/main/Linkedin_logo.png" />
 
