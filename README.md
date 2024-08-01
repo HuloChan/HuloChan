@@ -48,7 +48,7 @@
 
 <a href="https://www.facebook.com/sajidbinsarowar">
   
-  <img align="left" alt="Hulo's Facebook" width="50px" src="https://i.ibb.co/HxQGYX2/vecteezy-facebook-logo-png-facebook-icon-transparent-png-18930698.png" />
+  <img align="left" alt="Hulo's Facebook" width="25px" src="https://cdn.jim-nielsen.com/ios/512/facebook-2019-05-21.png?rf=1024" />
 
 </a>
 
