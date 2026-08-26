@@ -171,7 +171,7 @@
 
 
 
-  <img align="right" alt="GIF-Zenitsu_Thunder" src="https://images2.imgbox.com/26/60/yJ0EQfsT_o.png" width="500" height="454" />
+  <img align="right" alt="GIF-Zenitsu_Thunder" src="https://i.ibb.co/C5VG2PDj/Zenitsu-visual-Hinokami-Chronicles.webp" width="500" height="454" />
 
 
 
