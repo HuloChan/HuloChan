@@ -101,24 +101,6 @@
 
 </a>
 
-
-
-<!--:instagram:-->
-
-
-
-<a href="https://www.instagram.com/sbs_shakib/">
-
-  
-
-  <img align="left" alt="Hulo's Instagram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
-
-
-
-</a>
-
-
-
 <!--:telegram:-->
 
 
